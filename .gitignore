@@ -130,3 +130,6 @@ dmypy.json
 
 # Pycharm file
 .idea
+
+# MP3 file that is created by the program
+encoded_audio.mp3
